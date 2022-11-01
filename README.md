@@ -6,7 +6,7 @@
 [Socket.IO](http://socket.io/) module for Angular 2 and 4
 
 ## Install
-``` npm install ng-socket-io ```
+``` npm install jhuseinovic/ng-socket-io ```
 
 ## How to use
 
